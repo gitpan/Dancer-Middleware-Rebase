@@ -17,4 +17,4 @@ requires:
   URI: 0
   parent: 0
   perl: 5.008_000
-version: 0.7.0_01
+version: 0.7.0_02

@@ -24,7 +24,7 @@ my %WriteMakefileArgs = (
     'URI' => '0',
     'parent' => '0'
   },
-  'VERSION' => '0.7.0_02',
+  'VERSION' => '0.8.0',
   'test' => {
     'TESTS' => 't/*.t'
   }

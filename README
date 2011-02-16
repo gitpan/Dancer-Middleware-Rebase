@@ -2,7 +2,7 @@ NAME
     Dancer::Middleware::Rebase - a Plack middleware to be used for Dancer
 
 VERSION
-    version 0.7.0_02
+    version 0.8.0
 
 DESCRIPTION
     This is a Plack::Middleware specifically geared to the Dancer framework.

@@ -1,6 +1,6 @@
 package Dancer::Middleware::Rebase;
 BEGIN {
-  $Dancer::Middleware::Rebase::VERSION = '0.7.0_02';
+  $Dancer::Middleware::Rebase::VERSION = '0.8.0';
 }
 
 # ABSTRACT: a Plack middleware to be used for Dancer
@@ -47,7 +47,7 @@ Dancer::Middleware::Rebase - a Plack middleware to be used for Dancer
 
 =head1 VERSION
 
-version 0.7.0_02
+version 0.8.0
 
 =head1 DESCRIPTION
 
